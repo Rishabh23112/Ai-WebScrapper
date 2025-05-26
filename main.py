@@ -11,7 +11,7 @@ from parse import parse_with_ollama
 st.title("AI Web Scraper")
 url = st.text_input("Enter Website URL")
 
-# Step 1: Scrape the Website
+#  Scrape the Website
 if st.button("Scrape Website"):
     if url:
         st.write("Scraping the website...")
@@ -29,7 +29,7 @@ if st.button("Scrape Website"):
             st.text_area("DOM Content", cleaned_content, height=300)
 
 
-# Step 2: Ask Questions About the DOM Content
+# Ask Questions About the DOM Content
 if "dom_content" in st.session_state:
     parse_description = st.text_area("Describe what you want to parse")
 
