@@ -1,6 +1,6 @@
-Here is the complete README in markdown format:
 
-```markdown
+
+
 # AI Web Scraper
 
 Welcome to the AI Web Scraper project! This tool allows you to scrape web data efficiently using AI techniques. Follow the steps below to get started.
