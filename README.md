@@ -19,7 +19,7 @@ To set up the project, follow these steps:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/ai-web-scraper.git
+git clone git@github.com:Rishabh23112/Ai-WebScrapper.git
 ```
 
 ### Step 2: Install Requirements
@@ -29,7 +29,7 @@ Install Ollama in your local machine from " https://ollama.com/download ".
 Ollama Version Used : llama3.2:1b
 
 ```bash
-cd AI-webScraper
+cd Ai-webScraper
 pip install -r requirements.txt
 ```
 
@@ -46,7 +46,7 @@ SBR_WEBDRIVER=your_api_key_here
 After completing the installation and configuration, you can run the scraper using:
 
 ```bash
-python AI-WebScraper.py
+python Ai-WebScraper.py
 ```
 
 Make sure to check the documentation for more details on how to use the scraper effectively.
