@@ -46,7 +46,7 @@ SBR_WEBDRIVER=your_api_key_here
 After completing the installation and configuration, you can run the scraper using:
 
 ```bash
-python Ai-WebScraper.py
+python main.py
 ```
 
 Make sure to check the documentation for more details on how to use the scraper effectively.
